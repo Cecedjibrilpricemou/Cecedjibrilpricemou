@@ -5,6 +5,7 @@
 
 📍 Conakry, Guinée — **Disponible immédiatement / Available immediately**  
 💼 Ouvert à : CDI · Freelance · Stage · Remote · International  
+🌐Ma carte de visite Numerique: https://ma-carte-de-visite-numerique.vercel.app/
 🌐 Portfolio : [gourou-portfolio-dev.vercel.app](https://gourou-portfolio-dev.vercel.app)
 
 ---
